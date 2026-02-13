@@ -1,0 +1,9 @@
+require("config.options")
+require("config.keymaps")
+require("config.theme")
+require("core.lazy")
+
+
+
+
+
